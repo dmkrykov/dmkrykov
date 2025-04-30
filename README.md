@@ -59,7 +59,7 @@ In my free time, I love reading books—both technical and non-technical. Whethe
 Feel free to explore my repositories to see some of the projects I’ve worked on. Most of them are focused on backend development, showcasing my skills in building REST APIs, integrating Kafka for messaging, and managing dependencies with Maven.
 
 ## Contact Me
-If you’d like to collaborate, discuss ideas, or just chat about technology, feel free to reach out! You can contact me via email at dmkrykov@gmail.com .
+If you’d like to collaborate, discuss ideas, or just chat about technology, feel free to reach out! You can contact me.
 
 ## Fun Fact
 When I'm not coding or reading, you might find me experimenting with new recipes in the kitchen or going for long walks to clear my mind. Balancing tech and life is key!
