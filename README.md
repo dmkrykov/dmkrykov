@@ -72,4 +72,5 @@ Let me know if you'd like to tweak this further!
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dmkrykov&theme=tokyonight&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+![Metrics](https://metrics.lecoq.io/dmkrykov)
+
