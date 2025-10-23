@@ -31,7 +31,8 @@ Hello! I'm Dmitry, a passionate Java Backend Developer with a focus on building 
   <img src="https://github.com/devicons/devicon/blob/master/icons/datagrip/datagrip-original.svg" title="Datagrip" alt="Datagrip " width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="intellij" alt="intellij" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/portainer/portainer-original.svg" title="portainer" alt="portainer" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="postman" alt="postman" width="40" height="40"/>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="postman" alt="postman" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="raspberry" alt="raspberry" width="40" height="40"/>
 </div>
 
 - Java (8+)
